@@ -1,0 +1,14 @@
+c:\users\sadik_000\documents\visual studio 2013\Projects\speaker\speaker\bin\Debug\speaker.exe.config
+c:\users\sadik_000\documents\visual studio 2013\Projects\speaker\speaker\bin\Debug\speaker.exe
+c:\users\sadik_000\documents\visual studio 2013\Projects\speaker\speaker\bin\Debug\speaker.pdb
+c:\users\sadik_000\documents\visual studio 2013\Projects\speaker\speaker\bin\Debug\speaker.xml
+c:\users\sadik_000\documents\visual studio 2013\Projects\speaker\speaker\obj\Debug\speaker.Resources.resources
+c:\users\sadik_000\documents\visual studio 2013\Projects\speaker\speaker\obj\Debug\speaker.vbproj.GenerateResource.Cache
+c:\users\sadik_000\documents\visual studio 2013\Projects\speaker\speaker\obj\Debug\speaker.exe
+c:\users\sadik_000\documents\visual studio 2013\Projects\speaker\speaker\obj\Debug\speaker.xml
+c:\users\sadik_000\documents\visual studio 2013\Projects\speaker\speaker\obj\Debug\speaker.pdb
+C:\Users\sadik_000\documents\visual studio 2013\Projects\speaker\speaker\obj\Debug\speaker.Form1.resources
+C:\Users\sadik_000\Desktop\speaker\speaker\bin\Debug\speaker.exe.config
+C:\Users\sadik_000\Desktop\speaker\speaker\obj\Debug\speaker.exe
+C:\Users\sadik_000\Desktop\speaker\speaker\obj\Debug\speaker.xml
+C:\Users\sadik_000\Desktop\speaker\speaker\obj\Debug\speaker.pdb
